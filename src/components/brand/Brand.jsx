@@ -1,10 +1,11 @@
 import React from 'react'
 import './brand.css'
-import { google,
-  slack,
-  atlassian,
-  dropbox,
-  shopify } from './imports'
+import google  from '../../assets/google.png'
+import slack  from '../../assets/slack.png'
+import atlassian  from '../../assets/atlassian.png'
+import dropbox  from '../../assets/dropbox.png'
+import shopify  from '../../assets/shopify.png'
+
 
 
 const Brand = () => {
